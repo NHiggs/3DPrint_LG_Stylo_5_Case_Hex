@@ -1,22 +1,29 @@
 LG Stylo 5 Case Hex
 ===
-
-Description
----
 Remix of this case [LG Stylo 5 Phone Case](https://www.thingiverse.com/thing:3903689) from formula13x.
 
-Case for the LG Stylo 5 phone with a hexagonal pattern to look cool, reduce print time, and make installation/removal easier.
+Case for the LG Stylo 5 Phone
+  * Hexagonal pattern to reduce filament, print time, and make installation easy
+	* Snap fit removable cam cover / protector
+	* Decorative tiles to mix and match design
+	* Removable / changable buttons 
 
-| <img src='./images/1.jpg' width='66%'/> 
-|--
 
-| ![empty](./images/3.jpg) | ![back](./images/2.jpg)
-| --- | --- | 
+Cam Cover/Protector 
+---
+![cc](./images/cc.gif)
 
-### Changes
+Decorative Tiles 
+---
+![tiles](./images/tiles.gif)
+
+Changes
+---
 Alterations to the original file include: 
   - increasing the width and height by 0.4mm
   - adding hexagonal relief pattern
+  - cam cover
+	- decorative tiles
 
 Credits
 ---
@@ -25,7 +32,7 @@ Credits
 
 Print Execution
 ---
-Recommend overriding the xy support distance setting to at least 1.4mm, this will prevent supports from being printed under the phone retention lip. They are not needed here and this will speed cleanup and fittment. 
+When printing the main case it is recommended to set the xy support distance setting to at least 1.4mm, this will prevent supports from being printed under the phone retention lip. They are not needed here and this will speed cleanup while saving fittment. 
 
 ### Settings
 | Print Setting | Value |
